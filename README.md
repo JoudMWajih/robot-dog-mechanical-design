@@ -1,2 +1,5 @@
 # التصميم الميكانيكي الأولي لكلب روبوتي بسيط 
-A simple mechanical design concept for a quadruped robot as part of the summer training mechanics track.
+
+## مقدمة
+
+هذا المشروع عبارة عن تصميم ميكانيكي أولي لكلب روبوتي بسيط، يوضح فكرة الهيكل والأرجل والمفاصل والمحركات، مع التركيز على فهم كيفية تحقيق الثبات والمشي بشكل مبدئي.
